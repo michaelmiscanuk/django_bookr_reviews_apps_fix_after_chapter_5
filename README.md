@@ -1,1 +1,2 @@
-# django_bookr_reviews_apps_fix_after_chapter_5
+Original - code for book here - https://github.com/PacktPublishing/Web-Development-with-Django 
+Fixed running the server.
