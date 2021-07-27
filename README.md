@@ -1,0 +1,1 @@
+# django_bookr_reviews_apps_fix_after_chapter_5
